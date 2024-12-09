@@ -1,7 +1,7 @@
 ---
 title: "About Jazmine Cooper"
 meta_title: "About"
-image: ""
+image: "cooperjazmine.portrait2.jpg"
 draft: false
 
 
