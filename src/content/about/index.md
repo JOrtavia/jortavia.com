@@ -7,4 +7,4 @@ draft: false
 
 ---
 
-Jazmine Ortavia Cooper (she/they) is a writer based in Detroit, MI. Her work has appeared in the Detroit Metro Times and Lunch Ticket. She’s a classically trained violist who plays in an amateur orchestra when she’s not reading or writing. She just finished her first novel. 
+Jazmine Cooper (she/they) is a writer based in Detroit, MI. Her work has appeared in Lunch Ticket, and The Detroit Metro Times, and evolves around experiences with mental health, addiction, difficult family dynamics, and music. Though primarily a novelist, she has written non-fiction pieces and poetry about her experiences with mental health and spirituality and continues to write around these themes in addition to current events on her website jortavia.com. She received her MFA in Fiction from Antioch Los Angeles and is in the process of finding representation for her first novel Only Some of Us Are Animals. When she’s not writing, she’s reading, managing her book Instagram, The Literary Asylum, and practicing viola as she’s an amateur, classically trained musician. 
